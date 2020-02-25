@@ -2,9 +2,9 @@
 # -*- encoding: utf-8 -*-
 '''
 @File : f3_ddd_test.py 
-@Contact : buweiqiang@civaonline.cn
+@Contact : zhangping294279@163.com
 @MTime : 2019-12-03 18:53 
-@Author: buweiqiang
+@Author: zhangping
 @Version: 1.0
 @Desciption: None
 '''

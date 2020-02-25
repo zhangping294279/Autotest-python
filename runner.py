@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = "Weiqiang Bu"
+__author__ = "Zhang Ping"
 __version__ = "1.5"
 
 """

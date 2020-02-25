@@ -2,9 +2,9 @@
 # -*- encoding: utf-8 -*-
 '''
 @File : __init__.py.py 
-@Contact : buweiqiang@civaonline.cn
+@Contact : zhangping294279@163.com
 @MTime : 2019-09-16 17:27 
-@Author: buweiqiang
+@Author: zhangping
 @Version: 1.0
 @Desciption: None
 '''

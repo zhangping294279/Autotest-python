@@ -2,9 +2,9 @@
 # -*- encoding: utf-8 -*-
 '''
 @File : style_2.py 
-@Contact : buweiqiang@civaonline.cn
+@Contact : zhangping294279@163.com
 @MTime : 2019-12-02 10:56 
-@Author: buweiqiang
+@Author: zhangping
 @Desciption: None
 '''
 

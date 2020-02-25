@@ -122,7 +122,7 @@ common/helper.py: 里是常用的公共方法，如生成随机串，计算文�
 
 为了方便灵活的执行测试用例，封装了runner.py做为执行测试用例的入口，使用示例如下：
 ```angular2
-python runner.py tests/demo_tests -p *test.py -e dev --mail buweiqiang@civaonline.cn --ding dingding-robot-token --notice 1
+python runner.py tests/demo_tests -p *test.py -e dev --mail zhangping294279@163.com --ding dingding-robot-token --notice 1
 ```
 第一个参数必填，是指定查找测试用例的文件夹
 
